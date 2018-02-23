@@ -1,7 +1,9 @@
-﻿
-
-using System.Collections;
-using System.Collections.Generic;
+﻿////////////////////////////////////////////////
+// Proyecto: SaladilloVR
+// Alumno: Alejandro Segura Meléndez
+// Curso: 2017/2018
+// Archivo: SphereScript.cs
+////////////////////////////////////////////////
 using UnityEngine;
 
 public class SphereScript : MonoBehaviour
